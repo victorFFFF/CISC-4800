@@ -1,0 +1,42 @@
+/* VICTOR LI
+CISC 4800 (SPECIAL TOPICS)
+PROJECT 1
+03/06/20 */
+
+.title1{
+text-align: center;
+background-color: darkred;
+padding:1%;
+}
+
+.background1{
+    background-color: burlywood;
+}
+
+.container1{
+
+    text-align: center;
+    background-color: antiquewhite;
+    padding:2%;
+}
+
+.centerText{
+    padding-left:20%;
+    padding-right:20%;
+}
+
+.borderClass{
+  
+    border-style: solid;
+}
+.head1{
+    background-color: aliceblue;
+    padding:1%;
+    margin-left:42%;
+    margin-right:42%;
+}
+.copy{
+    background-color: black;
+    color:white;
+    padding:1%;
+}
